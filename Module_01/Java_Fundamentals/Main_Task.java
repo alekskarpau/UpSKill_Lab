@@ -58,7 +58,7 @@ public class Main_Task {
             System.out.println("");
         }
 
-//        4. Ввести целые числа как аргументы командной строки, подсчитать их сумму (произведение) и вывести результат на консоль.
+        // 4. Ввести целые числа как аргументы командной строки, подсчитать их сумму (произведение) и вывести результат на консоль.
 
         ArrayList<Integer> listNumbers1 = new ArrayList<>();
         BufferedReader reader3 = new BufferedReader(new InputStreamReader(System.in));
@@ -84,7 +84,7 @@ public class Main_Task {
         }
         System.out.println("Произведение введенных чисел равно: " + multiplication);
 
-//        5. Ввести число от 1 до 12. Вывести на консоль название месяца, соответствующего данному числу. Осуществить проверку корректности ввода чисел.
+        // 5. Ввести число от 1 до 12. Вывести на консоль название месяца, соответствующего данному числу. Осуществить проверку корректности ввода чисел.
 
         BufferedReader reader4 = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Введите число от 1 до 12");
